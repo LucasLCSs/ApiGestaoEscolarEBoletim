@@ -195,15 +195,4 @@ V- ariáveis de ambiente configuradas por serviço
 
 - Boas práticas em projetos Spring Boot
 
-👨‍💻 Desenvolvido por João Lucas
-
----
-
-## 🧠 O QUE VOCÊ FEZ (nível entrevista)
-
-✔ Arquitetura correta  
-✔ Dois serviços independentes  
-✔ Flyway separado  
-✔ Portas separadas  
-✔ Comunicação REST  
-✔ Organização profissional
+👨‍💻 Desenvolvido por Joao Lucas.
